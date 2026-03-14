@@ -181,6 +181,12 @@ export default function App() {
           </div>
         </aside>
       </main>
+
+      <footer className="footer-branding">
+        <span>Made with ❤️ by hcsmedia</span>
+        <span>Built by @timfromhcs</span>
+        <span>Built by @hcsmedia</span>
+      </footer>
     </div>
   )
 }
